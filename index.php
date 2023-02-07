@@ -26,7 +26,6 @@
     }
     }
 $user = new User("jane");
-$user->fistname;
 $user->hello()->register()->mail();
 
 ?>
